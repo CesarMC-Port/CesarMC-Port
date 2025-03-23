@@ -47,13 +47,13 @@
      Languages and Tools Section: Tecnologías y GIF 
 ================================== -->
 <h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <!-- Imagen: Iron Man -->    
-  <img width="145px" src="https://github.com/user-attachments/assets/87c9ea9e-cb01-451d-b4bb-61fae33d71f8" alt="GIF">
-  <!-- Imagen: Tecnologías -->
-  <img width="370px" src="https://skillicons.dev/icons?i=js,py,html,css,react,vue,nodejs,express,mongo,git,mysql,vscode,docker,wordpress,aws,fastapi,figma,flask,linux,powershell,pytorch,sqlite,tailwind,tensorflow,ubuntu,vercel,vscode,vite,docker,nginx,sequelize,redis,autocad,blender&perline=7" alt="Technologies">
+<p align="center"
   <!-- Imagen: Garou -->
-  <img width="185px" src="https://github.com/user-attachments/assets/ce354779-254c-484e-81b5-20f7ef0f4334" alt="GIF">
+  <img width="205px" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/d2fcdbab-9db5-4b15-80bd-b5ffa3868f04" alt="garou">
+  <!-- Imagen: Tecnologías -->
+  <img width="500px" style="vertical-align: middle;" src="https://skillicons.dev/icons?i=js,py,html,css,react,vue,nodejs,express,mongo,git,mysql,vscode,docker,wordpress,aws,fastapi,figma,flask,linux,powershell,pytorch,sqlite,tailwind,tensorflow,ubuntu,vercel,vscode,vite,docker,nginx,sequelize,redis,autocad,blender&perline=7" alt="Technologies">
+  <!-- Imagen: Iron Man -->    
+  <img width="205px" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/87c9ea9e-cb01-451d-b4bb-61fae33d71f8" alt="GIF">
 </p>
 
 <!-- ============================== 
