@@ -18,14 +18,14 @@
      Profile GIF Section 
 ================================== -->
 <p align="center">
-  <img height="280rem" alt="GIF" src="https://github.com/user-attachments/assets/18ecff93-8625-4079-ab14-727b50ca6bd6" />
+  <img width="100%" alt="GIF" src="https://github.com/user-attachments/assets/18ecff93-8625-4079-ab14-727b50ca6bd6" />
 </p>
 
 <!-- ============================== 
      Second GIF Section 
 ================================== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF">
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF">
   <br>
 </p>
 
@@ -49,11 +49,11 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center"
   <!-- Imagen: Garou -->
-  <img width="22.5274725%" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/d2fcdbab-9db5-4b15-80bd-b5ffa3868f04" alt="garou">
+  <img width="21.5274725%" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/d2fcdbab-9db5-4b15-80bd-b5ffa3868f04" alt="garou">
   <!-- Imagen: Tecnologías -->
-  <img width="53.9450549%" style="vertical-align: middle;" src="https://skillicons.dev/icons?i=js,py,html,css,react,vue,nodejs,express,mongo,git,mysql,vscode,docker,wordpress,aws,fastapi,figma,flask,linux,powershell,pytorch,sqlite,tailwind,tensorflow,ubuntu,vercel,vscode,vite,docker,nginx,sequelize,redis,autocad,blender&perline=7" alt="Technologies">
+  <img width="51.9450549%" style="vertical-align: middle;" src="https://skillicons.dev/icons?i=js,py,html,css,react,vue,nodejs,express,mongo,git,mysql,vscode,docker,wordpress,aws,fastapi,figma,flask,linux,powershell,pytorch,sqlite,tailwind,tensorflow,ubuntu,vercel,vscode,vite,docker,nginx,sequelize,redis,autocad,blender&perline=7" alt="Technologies">
   <!-- Imagen: Iron Man -->    
-  <img width="22.5274725%" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/87c9ea9e-cb01-451d-b4bb-61fae33d71f8" alt="GIF">
+  <img width="21.5274725%" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/87c9ea9e-cb01-451d-b4bb-61fae33d71f8" alt="GIF">
 </p>
 
 <!-- ============================== 
