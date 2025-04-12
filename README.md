@@ -3,10 +3,6 @@
 ================================== -->
 <h2 align="center">
   Hi 👋 , I'm Cesar Alejandro Mora <br/><br/>
-  <!-- Badge: Seguidores en GitHub -->
-  <a href="https://github.com/CesarMC-Port" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/CesarMC-Port?label=Github%20followers&style=for-the-badge">
-  </a> 
 </h2>
 <br><br>
 
