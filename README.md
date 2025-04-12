@@ -7,10 +7,6 @@
   <a href="https://github.com/CesarMC-Port" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/CesarMC-Port?label=Github%20followers&style=for-the-badge">
   </a> 
-  <!-- Badge: Vistas en GitHub -->
-  <a href="https://github.com/CesarMC-Port" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=CesarMC-Port&label=Views&color=blue&style=flat-square" alt="views on github" />
-  </a>
 </h2>
 <br><br>
 
