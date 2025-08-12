@@ -26,7 +26,7 @@
 ================================== -->
 <h2 align="center">About Me</h2>
 <p>
-  I am passionate about technology, innovation and the development of digital solutions. With +6 years of experience in web development and project management, +2 years of experience in 3D mechanical modeling and prototyping, I have worked in the creation of products from scratch, implementing strategies to improve infrastructure and reduce operating costs.
+  I am passionate about technology, innovation and the development of digital solutions. With +6 years of experience in web development and project management, +3 years of experience in 3D mechanical modeling and prototyping, I have worked in the creation of products from scratch, implementing strategies to improve infrastructure and reduce operating costs.
   <b><strong>I am 100% committed to each project, ensuring quality, efficiency and alignment with the client's goals. Always in search of new challenges.</strong></b>
 </p>
 <ul>
