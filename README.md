@@ -4,19 +4,10 @@
 <h2 align="center">
   Hi 👋 , I'm Cesar Alejandro Mora <br/><br/>
 </h2>
-<br><br>
-
-<!-- ============================== 
-     Profile GIF Section 
-================================== -->
-<p align="center">
-  <img width="100%" alt="GIF" src="https://github.com/user-attachments/assets/18ecff93-8625-4079-ab14-727b50ca6bd6" />
-</p>
 
 <!-- ============================== 
      About Me Section 
 ================================== -->
-<h2 align="center">About Me</h2>
 <p>
   I am passionate about technology, innovation and the development of digital solutions. With +6 years of experience in web development and project management, +3 years of experience in 3D mechanical modeling and prototyping, I have worked in the creation of products from scratch, implementing strategies to improve infrastructure and reduce operating costs.
   <b><strong>I am 100% committed to each project, ensuring quality, efficiency and alignment with the client's goals. Always in search of new challenges.</strong></b>
