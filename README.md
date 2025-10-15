@@ -14,14 +14,6 @@
 </p>
 
 <!-- ============================== 
-     Second GIF Section 
-================================== -->
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF">
-  <br>
-</p>
-
-<!-- ============================== 
      About Me Section 
 ================================== -->
 <h2 align="center">About Me</h2>
